@@ -1,0 +1,6 @@
+{
+  "name": "hardhat-project",
+  "scripts": { 
+"remixd": "remixd -s ./ --remix-ide https://remix.ethereum.org"
+  } 
+}
